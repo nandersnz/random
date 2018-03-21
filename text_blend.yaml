@@ -1,0 +1,13 @@
+swagger: '2.0'
+
+# This is your document metadatan
+info:
+  version: "0.0.1"
+  title: Customer API
+  description: |
+    A brief description of the API.
+    It can be multiple lines.
+
+# Describe your paths here
+paths:
+  /customers:
